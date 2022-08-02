@@ -2,6 +2,8 @@
 title: "ТУГТАН ГРАНД ХХК"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.png
+blurb:
+    heading: 
     text: "Барилгын гадна, дотор цахилгаан хангамж, нам хүчдлийн тоноглол, холбоо дохиолол, утаа зайлуулах системийн автоматжуулалтын угсралт"
 intro:
     heading: "What we offer"
